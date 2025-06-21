@@ -22,9 +22,7 @@ Data Science: Basic understanding of ML algorithms and neural networks
 
 Version Control: Git
 
-Education
-
-Blagoveshchensk State Pedagogical University
+Education: Blagoveshchensk State Pedagogical University
 Bachelor's Degree in "Mathematical Software and Information Network Administration"
 2013-2017
 
