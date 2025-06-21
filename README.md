@@ -1,16 +1,36 @@
 ## Hi there 👋
+My name is Viktor Zemkov.
+Junior Neural Networks Developer & Data Scientist
 
-<!--
-**Umichata/Umichata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱  I'm currently studying at the neural network academy "The Founders" on the course "Neural network developer".
 
-Here are some ideas to get you started:
+Contact Information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub: Umichata
+Email: vincorz@gmail.com
+
+About Me
+
+Entry-level specialist in machine learning and data analysis with strong mathematical background. Hold a Bachelor's degree in "Mathematical Software and Information Network Administration". Passionate about AI technologies and their practical applications.
+
+Skills
+
+Programming Languages: Python, C/C++, Java, PHP, HTML/CSS, JavaScript
+
+Data Science: Basic understanding of ML algorithms and neural networks
+
+Version Control: Git
+
+Education
+
+Blagoveshchensk State Pedagogical University
+Bachelor's Degree in "Mathematical Software and Information Network Administration"
+2013-2017
+
+Additional Information
+
+Strong mathematical foundation (linear algebra, probability, statistics)
+Fast learner with problem-solving mindset
+English: Intermediate (reading technical documentation)
+
+⭐ Open to internships and junior positions in AI/ML field!
