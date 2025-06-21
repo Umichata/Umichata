@@ -5,7 +5,7 @@
 
 ## Contact Information
 
-GitHub: Umichata
+GitHub: [Umichata](https://github.com/Umichata)
 
 Email: vincorz@gmail.com
 
