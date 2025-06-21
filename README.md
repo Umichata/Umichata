@@ -26,9 +26,7 @@ Education: Blagoveshchensk State Pedagogical University
 Bachelor's Degree in "Mathematical Software and Information Network Administration"
 2013-2017
 
-Additional Information
-
-Strong mathematical foundation (linear algebra, probability, statistics)
+Additional Information: Strong mathematical foundation (linear algebra, probability, statistics)
 Fast learner with problem-solving mindset
 English: Intermediate (reading technical documentation)
 
