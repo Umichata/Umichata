@@ -7,6 +7,7 @@ Junior Neural Networks Developer & Data Scientist
 Contact Information
 
 GitHub: Umichata
+
 Email: vincorz@gmail.com
 
 About Me
